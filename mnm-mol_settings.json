@@ -1,0 +1,40 @@
+{
+    "net_type": "mnm-mol",
+    "training_epochs": 20,
+    "learning_rate": 5e-4,
+    "learning_rate_lam": 1,
+    
+    "number_of_feature_filters": 64,
+    "number_of_layers": 5,
+    "input_channels": 1,
+    "output_channels": 1,
+    "lam_itr": 100,
+    "lam_init": 100,
+    "cgIter_itr": 5,
+    "cgIter_init": 50,
+    
+    "err_tol": 2e-4,
+    "nFETarget": 200,
+    "learning_rate_lipschitz": 1e2,
+    "clip_wt": 1e-3,
+    "eps": 0.3,
+    "alpha": 0.055,
+    "lip_threshold": 0.98,
+    "adversarial_iters": 20,
+    "adversarial_update_interval": 1,
+    
+    "restore": false,
+    "restore_dir": "",
+    "restore_model": "model.pth.tar",
+    
+    "start_sub": 1,
+    "num_sub": 1,
+    "start_sl": 10,
+    "num_sl": 20,
+    "acc": 4,
+    "noise_std": 0.0,
+    
+    "data_path": "/home/mrjohn/LSS/lss_jcb/aniket/fastmri_mol/fastmri_50subjects_cropped",
+    "models_dir": "models/",
+    "NOTES": ""
+}
