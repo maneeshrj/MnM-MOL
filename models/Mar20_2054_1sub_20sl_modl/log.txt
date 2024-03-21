@@ -1,0 +1,81 @@
+
+****************************************
+Training started on 20-Mar-2024 at 08:54 pm
+models/Mar20_2054_1sub_20sl_modl
+
+Loaded 20 slices
+[Epoch 0] 	total-loss: 0.051575, pred-loss: 0.051575, err: 0.00965, λ: 9.803, nFE 10, psnr: 27.82, epoch time: 0.13 mins
+
+[after forward pass] -- 1.264 GB
+[after optimizer step] -- 0.000 GB
+
+[Epoch 1] 	total-loss: 0.016920, pred-loss: 0.016920, err: 0.00450, λ: 9.593, nFE 10, psnr: 30.89, epoch time: 0.11 mins
+
+[Epoch 2] 	total-loss: 0.014770, pred-loss: 0.014770, err: 0.00403, λ: 9.382, nFE 10, psnr: 31.48, epoch time: 0.11 mins
+
+[Epoch 3] 	total-loss: 0.013728, pred-loss: 0.013728, err: 0.00404, λ: 9.181, nFE 10, psnr: 31.80, epoch time: 0.11 mins
+
+[Epoch 4] 	total-loss: 0.012490, pred-loss: 0.012490, err: 0.00390, λ: 8.986, nFE 10, psnr: 32.22, epoch time: 0.11 mins
+
+[Epoch 5] 	total-loss: 0.011689, pred-loss: 0.011689, err: 0.00374, λ: 8.813, nFE 10, psnr: 32.51, epoch time: 0.11 mins
+
+[Epoch 6] 	total-loss: 0.010190, pred-loss: 0.010190, err: 0.00354, λ: 8.661, nFE 10, psnr: 33.12, epoch time: 0.11 mins
+
+[Epoch 7] 	total-loss: 0.009179, pred-loss: 0.009179, err: 0.00323, λ: 8.533, nFE 10, psnr: 33.58, epoch time: 0.11 mins
+
+[Epoch 8] 	total-loss: 0.008655, pred-loss: 0.008655, err: 0.00335, λ: 8.428, nFE 10, psnr: 33.83, epoch time: 0.11 mins
+
+[Epoch 9] 	total-loss: 0.011230, pred-loss: 0.011230, err: 0.00429, λ: 8.324, nFE 10, psnr: 32.74, epoch time: 0.11 mins
+
+[Epoch 10] 	total-loss: 0.008667, pred-loss: 0.008667, err: 0.00328, λ: 8.222, nFE 10, psnr: 33.81, epoch time: 0.11 mins
+
+[Epoch 11] 	total-loss: 0.007601, pred-loss: 0.007601, err: 0.00298, λ: 8.151, nFE 10, psnr: 34.40, epoch time: 0.11 mins
+
+[Epoch 12] 	total-loss: 0.007143, pred-loss: 0.007143, err: 0.00281, λ: 8.094, nFE 10, psnr: 34.69, epoch time: 0.11 mins
+
+[Epoch 13] 	total-loss: 0.006969, pred-loss: 0.006969, err: 0.00282, λ: 8.043, nFE 10, psnr: 34.80, epoch time: 0.11 mins
+
+[Epoch 14] 	total-loss: 0.006845, pred-loss: 0.006845, err: 0.00277, λ: 8.000, nFE 10, psnr: 34.87, epoch time: 0.11 mins
+
+[Epoch 15] 	total-loss: 0.006653, pred-loss: 0.006653, err: 0.00272, λ: 7.967, nFE 10, psnr: 35.01, epoch time: 0.11 mins
+
+[Epoch 16] 	total-loss: 0.006445, pred-loss: 0.006445, err: 0.00264, λ: 7.933, nFE 10, psnr: 35.14, epoch time: 0.11 mins
+
+[Epoch 17] 	total-loss: 0.006269, pred-loss: 0.006269, err: 0.00259, λ: 7.900, nFE 10, psnr: 35.26, epoch time: 0.11 mins
+
+[Epoch 18] 	total-loss: 0.006110, pred-loss: 0.006110, err: 0.00257, λ: 7.872, nFE 10, psnr: 35.38, epoch time: 0.11 mins
+
+[Epoch 19] 	total-loss: 0.005974, pred-loss: 0.005974, err: 0.00243, λ: 7.845, nFE 10, psnr: 35.48, epoch time: 0.11 mins
+
+[Epoch 20] 	total-loss: 0.005990, pred-loss: 0.005990, err: 0.00241, λ: 7.822, nFE 10, psnr: 35.45, epoch time: 0.11 mins
+
+[Epoch 21] 	total-loss: 0.005956, pred-loss: 0.005956, err: 0.00245, λ: 7.802, nFE 10, psnr: 35.49, epoch time: 0.11 mins
+
+[Epoch 22] 	total-loss: 0.005866, pred-loss: 0.005866, err: 0.00237, λ: 7.787, nFE 10, psnr: 35.55, epoch time: 0.11 mins
+
+[Epoch 23] 	total-loss: 0.005752, pred-loss: 0.005752, err: 0.00233, λ: 7.769, nFE 10, psnr: 35.64, epoch time: 0.11 mins
+
+[Epoch 24] 	total-loss: 0.005733, pred-loss: 0.005733, err: 0.00225, λ: 7.754, nFE 10, psnr: 35.67, epoch time: 0.11 mins
+
+[Epoch 25] 	total-loss: 0.005660, pred-loss: 0.005660, err: 0.00223, λ: 7.741, nFE 10, psnr: 35.71, epoch time: 0.11 mins
+
+[Epoch 26] 	total-loss: 0.005631, pred-loss: 0.005631, err: 0.00223, λ: 7.732, nFE 10, psnr: 35.74, epoch time: 0.11 mins
+
+[Epoch 27] 	total-loss: 0.005523, pred-loss: 0.005523, err: 0.00224, λ: 7.719, nFE 10, psnr: 35.82, epoch time: 0.11 mins
+
+[Epoch 28] 	total-loss: 0.005485, pred-loss: 0.005485, err: 0.00217, λ: 7.707, nFE 10, psnr: 35.85, epoch time: 0.11 mins
+
+[Epoch 29] 	total-loss: 0.005500, pred-loss: 0.005500, err: 0.00217, λ: 7.694, nFE 10, psnr: 35.83, epoch time: 0.11 mins
+
+[Epoch 30] 	total-loss: 0.005520, pred-loss: 0.005520, err: 0.00218, λ: 7.687, nFE 10, psnr: 35.82, epoch time: 0.11 mins
+
+
+Total time: 3.42 mins
+Training completed at 20-Mar-2024 08:58 pm
+****************************************
+nFE: 10
+error: 0.002634
+SENSE PSNR:  31.795 dB
+MODL PSNR:   35.896 dB
+SENSE SSIM:  0.906
+MODL SSIM:   0.962

@@ -1,0 +1,82 @@
+
+****************************************
+Training started on 20-Mar-2024 at 07:01 pm
+models/Mar20_1901_1sub_20sl_mnm-mol
+
+Loaded 20 slices
+[after forward pass] -- 0.226 GB
+
+[after adversarial iters] -- 0.455 GB
+
+[after optimizer step] -- 0.010 GB
+
+[Epoch 1] 	total-loss: 0.016124, pred-loss: 0.016124, clip-loss: 0.000000, err: 0.00023, lip: 0.770, nAdvrs: 20, λ: 17.592, nFE 55, psnr: 31.33, epoch time: 0.61 mins
+
+[Epoch 2] 	total-loss: 0.013482, pred-loss: 0.013482, clip-loss: 0.000000, err: 0.00020, lip: 0.771, nAdvrs: 20, λ: 18.455, nFE 85, psnr: 31.96, epoch time: 0.62 mins
+
+[Epoch 3] 	total-loss: 0.012796, pred-loss: 0.012796, clip-loss: 0.000000, err: 0.00020, lip: 0.772, nAdvrs: 20, λ: 18.340, nFE 130, psnr: 32.17, epoch time: 0.68 mins
+
+[Epoch 4] 	total-loss: 0.012110, pred-loss: 0.012110, clip-loss: 0.000000, err: 0.00020, lip: 0.771, nAdvrs: 20, λ: 18.105, nFE 137, psnr: 32.40, epoch time: 0.68 mins
+
+[Epoch 5] 	total-loss: 0.011611, pred-loss: 0.011611, clip-loss: 0.000000, err: 0.00020, lip: 0.771, nAdvrs: 20, λ: 17.321, nFE 147, psnr: 32.58, epoch time: 0.70 mins
+
+[Epoch 6] 	total-loss: 0.011250, pred-loss: 0.011250, clip-loss: 0.000000, err: 0.00020, lip: 0.770, nAdvrs: 20, λ: 16.440, nFE 152, psnr: 32.71, epoch time: 0.70 mins
+
+[Epoch 7] 	total-loss: 0.011036, pred-loss: 0.011036, clip-loss: 0.000000, err: 0.00020, lip: 0.770, nAdvrs: 20, λ: 15.195, nFE 167, psnr: 32.78, epoch time: 0.71 mins
+
+[Epoch 8] 	total-loss: 0.010715, pred-loss: 0.010715, clip-loss: 0.000000, err: 0.00021, lip: 0.768, nAdvrs: 20, λ: 14.211, nFE 159, psnr: 32.93, epoch time: 0.72 mins
+
+[Epoch 9] 	total-loss: 0.009854, pred-loss: 0.009854, clip-loss: 0.000000, err: 0.00020, lip: 0.766, nAdvrs: 20, λ: 11.624, nFE 166, psnr: 33.30, epoch time: 0.71 mins
+
+[Epoch 10] 	total-loss: 0.008806, pred-loss: 0.008806, clip-loss: 0.000000, err: 0.00020, lip: 0.763, nAdvrs: 20, λ: 8.420, nFE 180, psnr: 33.79, epoch time: 0.74 mins
+
+[Epoch 11] 	total-loss: 0.008596, pred-loss: 0.008596, clip-loss: 0.000000, err: 0.00021, lip: 0.761, nAdvrs: 20, λ: 6.996, nFE 173, psnr: 33.92, epoch time: 0.73 mins
+
+[Epoch 12] 	total-loss: 0.007808, pred-loss: 0.007808, clip-loss: 0.000000, err: 0.00020, lip: 0.759, nAdvrs: 20, λ: 5.765, nFE 179, psnr: 34.34, epoch time: 0.73 mins
+
+[Epoch 13] 	total-loss: 0.007351, pred-loss: 0.007351, clip-loss: 0.000000, err: 0.00020, lip: 0.758, nAdvrs: 20, λ: 5.286, nFE 173, psnr: 34.62, epoch time: 0.72 mins
+
+[Epoch 14] 	total-loss: 0.007277, pred-loss: 0.007277, clip-loss: 0.000000, err: 0.00020, lip: 0.759, nAdvrs: 20, λ: 4.966, nFE 174, psnr: 34.65, epoch time: 0.71 mins
+
+[Epoch 15] 	total-loss: 0.006889, pred-loss: 0.006889, clip-loss: 0.000000, err: 0.00020, lip: 0.760, nAdvrs: 20, λ: 4.719, nFE 179, psnr: 34.86, epoch time: 0.74 mins
+
+[Epoch 16] 	total-loss: 0.006588, pred-loss: 0.006588, clip-loss: 0.000000, err: 0.00020, lip: 0.764, nAdvrs: 20, λ: 4.142, nFE 177, psnr: 35.08, epoch time: 0.73 mins
+
+[Epoch 17] 	total-loss: 0.006410, pred-loss: 0.006410, clip-loss: 0.000000, err: 0.00020, lip: 0.763, nAdvrs: 20, λ: 4.234, nFE 174, psnr: 35.20, epoch time: 0.73 mins
+
+[Epoch 18] 	total-loss: 0.006370, pred-loss: 0.006370, clip-loss: 0.000000, err: 0.00020, lip: 0.761, nAdvrs: 20, λ: 3.727, nFE 171, psnr: 35.22, epoch time: 0.73 mins
+
+[Epoch 19] 	total-loss: 0.006441, pred-loss: 0.006441, clip-loss: 0.000000, err: 0.00020, lip: 0.759, nAdvrs: 20, λ: 3.844, nFE 171, psnr: 35.17, epoch time: 0.72 mins
+
+[Epoch 20] 	total-loss: 0.006439, pred-loss: 0.006439, clip-loss: 0.000000, err: 0.00020, lip: 0.759, nAdvrs: 20, λ: 3.774, nFE 172, psnr: 35.17, epoch time: 0.74 mins
+
+[Epoch 21] 	total-loss: 0.006356, pred-loss: 0.006356, clip-loss: 0.000000, err: 0.00020, lip: 0.760, nAdvrs: 20, λ: 4.098, nFE 173, psnr: 35.21, epoch time: 0.72 mins
+
+[Epoch 22] 	total-loss: 0.006303, pred-loss: 0.006303, clip-loss: 0.000000, err: 0.00020, lip: 0.761, nAdvrs: 20, λ: 4.626, nFE 174, psnr: 35.27, epoch time: 0.72 mins
+
+[Epoch 23] 	total-loss: 0.006357, pred-loss: 0.006357, clip-loss: 0.000000, err: 0.00020, lip: 0.756, nAdvrs: 20, λ: 3.670, nFE 166, psnr: 35.21, epoch time: 0.72 mins
+
+[Epoch 24] 	total-loss: 0.006492, pred-loss: 0.006492, clip-loss: 0.000000, err: 0.00020, lip: 0.762, nAdvrs: 20, λ: 4.866, nFE 171, psnr: 35.16, epoch time: 0.73 mins
+
+[Epoch 25] 	total-loss: 0.006529, pred-loss: 0.006529, clip-loss: 0.000000, err: 0.00020, lip: 0.758, nAdvrs: 20, λ: 3.970, nFE 167, psnr: 35.09, epoch time: 0.71 mins
+
+[Epoch 26] 	total-loss: 0.006154, pred-loss: 0.006154, clip-loss: 0.000000, err: 0.00020, lip: 0.759, nAdvrs: 20, λ: 4.260, nFE 173, psnr: 35.34, epoch time: 0.71 mins
+
+[Epoch 27] 	total-loss: 0.005945, pred-loss: 0.005945, clip-loss: 0.000000, err: 0.00020, lip: 0.760, nAdvrs: 20, λ: 3.871, nFE 169, psnr: 35.51, epoch time: 0.72 mins
+
+[Epoch 28] 	total-loss: 0.005769, pred-loss: 0.005769, clip-loss: 0.000000, err: 0.00020, lip: 0.761, nAdvrs: 20, λ: 3.812, nFE 168, psnr: 35.64, epoch time: 0.73 mins
+
+[Epoch 29] 	total-loss: 0.005755, pred-loss: 0.005755, clip-loss: 0.000000, err: 0.00020, lip: 0.759, nAdvrs: 20, λ: 3.626, nFE 168, psnr: 35.65, epoch time: 0.71 mins
+
+[Epoch 30] 	total-loss: 0.005662, pred-loss: 0.005662, clip-loss: 0.000000, err: 0.00020, lip: 0.760, nAdvrs: 20, λ: 3.488, nFE 170, psnr: 35.73, epoch time: 0.72 mins
+
+
+Total time: 21.36 mins
+Training completed at 20-Mar-2024 07:22 pm
+****************************************
+nFE: 172
+error: 0.000199
+SENSE PSNR: 31.795 dB
+MnM-MOL PSNR:   35.803 dB
+SENSE SSIM: 0.906
+MnM-MOL SSIM:   0.960
