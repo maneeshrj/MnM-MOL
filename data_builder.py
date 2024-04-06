@@ -19,11 +19,11 @@ from torch.utils.data import Dataset, DataLoader
 from scipy.io import loadmat
 
 #%%
-def preload(path, num_sub, num_sl, start_sub, start_sl, acc, mask_type="vertical"):
+def preload(path, num_sub, num_sl, start_sub, start_sl, acc):
     print("Loading subjects...", end=" ")
     for i in range(start_sub, num_sub + start_sub):
         print(i, end=" ")
-        filepath = path + '/sub_' + str(i) + '.pickle'
+        filepath = path + '/example_fastmri_knee_sub_' + str(i) + '.pickle'
         with open(filepath, "rb") as f:
             temp_sub, temp_csm = pickle.load(f)            
         

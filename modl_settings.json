@@ -1,7 +1,7 @@
 {
     "net_type": "modl",
-    "training_epochs": 20,
-    "learning_rate": 1e-4,
+    "training_epochs": 30,
+    "learning_rate": 5e-4,
     "learning_rate_lam": 0.01,
     
     "number_of_feature_filters": 64,
@@ -21,7 +21,7 @@
     
     "start_sub": 1,
     "num_sub": 1,
-    "start_sl": 10,
+    "start_sl": 0,
     "num_sl": 20,
     "acc": 4,
     "noise_std": 0.0,

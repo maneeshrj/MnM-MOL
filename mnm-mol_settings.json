@@ -1,6 +1,6 @@
 {
     "net_type": "mnm-mol",
-    "training_epochs": 20,
+    "training_epochs": 30,
     "learning_rate": 5e-4,
     "learning_rate_lam": 1,
     
@@ -8,7 +8,7 @@
     "number_of_layers": 5,
     "input_channels": 1,
     "output_channels": 1,
-    "lam_itr": 100,
+    "lam_itr": 10,
     "lam_init": 100,
     "cgIter_itr": 5,
     "cgIter_init": 50,
@@ -29,12 +29,12 @@
     
     "start_sub": 1,
     "num_sub": 1,
-    "start_sl": 10,
+    "start_sl": 0,
     "num_sl": 20,
     "acc": 4,
     "noise_std": 0.0,
     
-    "data_path": "/home/mrjohn/LSS/lss_jcb/aniket/fastmri_mol/fastmri_50subjects_cropped",
+    "data_path": "data/",
     "models_dir": "models/",
     "NOTES": ""
 }
