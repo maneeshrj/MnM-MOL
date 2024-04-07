@@ -19,6 +19,10 @@ We show that the proposed algorithm is guaranteed to converge to the fixed point
 
 ![Calgary performance figure](/imgs/calgary-performance-fig.png)
 
+## Google Colab
+
+Demo code is available as a [Google Colab](https://colab.research.google.com/drive/1N0ES6x-iBvHOBMh57m4EIJnM37yS2Kqb?usp=sharing) notebook.
+
 ## Paper
 
 M. John, J.R. Chand, M. Jacob, Local monotone operator learning using non-monotone operators: MnM-MOL, IEEE Transactions on Computational Imaging, in press.
